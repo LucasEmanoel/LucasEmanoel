@@ -25,8 +25,25 @@ I'm begginer Web Developer React.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/react.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/tsnode.svg"></code>
+
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEmanoel&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasEmanoel&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+</a>
+<a href="https://github.com/Gurupreet/ComposeCookBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?LucasEmanoel=Gurupreet&repo=ComposeCookBook&theme=light" />
+</a>
+
+<div align="center">
+
+### Share some love following me on Linkdin
+
+</div>
+
+
