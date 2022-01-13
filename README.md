@@ -37,7 +37,7 @@ I'm begginer Web Developer React.
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasEmanoel&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
 </a>
 <a href="https://github.com/LucasEmanoel/proMatch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?LucasEmanoel=LucasEmanoel&repo=proMatch&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasEmanoel&repo=proMatch&theme=light" />
 </a>
 
 <div align="center">
