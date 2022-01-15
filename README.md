@@ -19,7 +19,7 @@ I'm begginer Web Developer React.
 <br/>
 
 - 🔭 I’m currently working <b>for myself</b>
-- 🌱 I’m currently learning more about Node.js, React.js, ReactNative(Forever).
+- 🌱 I’m currently learning more about Node.js, React.js.
 - 💬 Ask me about React.js.
 - 📫 How to reach me: [Linkdein - @Lucas Barros](https://www.linkedin.com/in/lucas-barros-979011135)
 
