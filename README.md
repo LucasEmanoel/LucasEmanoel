@@ -18,7 +18,6 @@ I'm begginer Web Developer React.
 <br/>
 <br/>
 
-- 🔭 I’m currently working <b>for myself</b>
 - 🌱 I’m currently learning more about Node.js, React.js.
 - 💬 Ask me about React.js.
 - 📫 How to reach me: [Linkdein - @Lucas Barros](https://www.linkedin.com/in/lucas-barros-979011135)
@@ -36,9 +35,7 @@ I'm begginer Web Developer React.
 <a href="https://github.com/LucasEmanoel">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasEmanoel&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
 </a>
-<a href="https://github.com/LucasEmanoel/proMatch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasEmanoel&repo=proMatch&theme=light" />
-</a>
+
 
 <div align="center">
 
