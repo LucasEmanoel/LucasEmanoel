@@ -2,8 +2,6 @@
 
 ## Nice meeting you, I’m Lucas Emanoel! 
 
-I'm begginer Web Developer React.
-
 <a href="https://www.instagram.com/luccas.brs/">
   <img align="left" alt="
   's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/instagram.svg" />
@@ -19,7 +17,6 @@ I'm begginer Web Developer React.
 <br/>
 
 - 🌱 I’m currently learning more about Node.js, React.js.
-- 💬 Ask me about React.js.
 - 📫 How to reach me: [Linkdein - @Lucas Barros](https://www.linkedin.com/in/lucas-barros-979011135)
 
 **Languages and Tools:**  
@@ -35,12 +32,5 @@ I'm begginer Web Developer React.
 <a href="https://github.com/LucasEmanoel">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasEmanoel&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
 </a>
-
-
-<div align="center">
-
-### Share some love following me on Linkdin
-
-</div>
 
 
