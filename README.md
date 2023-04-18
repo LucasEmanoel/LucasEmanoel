@@ -2,7 +2,6 @@
 
 ## I’m Lucas Emanoel! 
 
-- 🌱 I’m currently learning more about Node.js, React.js.
 - 📫 How to reach me: [Linkedin - @Lucas Barros](https://www.linkedin.com/in/lucas-barros-979011135)
 
 ##
